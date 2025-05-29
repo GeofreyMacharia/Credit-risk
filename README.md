@@ -12,7 +12,8 @@ Only to those whodo not run the risk of being defaulters.
 Below is a snippit of the analysis that provided answers to the respective research questions visualized in power bi:
 ![Credit 1](https://github.com/user-attachments/assets/853089e0-166a-4015-8ba1-67a61a296ece)
 
-Page 2
+Page 2:
+
 ![Credit 2](https://github.com/user-attachments/assets/f9aba09b-2dd5-46ab-a5fa-bd169eeee12e)
 
 
